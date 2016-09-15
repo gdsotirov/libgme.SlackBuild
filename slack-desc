@@ -1,0 +1,15 @@
+libgme: LibGME (A collection of video game music file emulators)
+libgme:
+libgme: Game_Music_Emu libarary is a collection of video game music file
+libgme: emulators that support the following formats and systems:
+libgme:   AY        ZX Spectrum/Amstrad CPC
+libgme:   GBS       Nintendo Game Boy
+libgme:   GYM       Sega Genesis/Mega Drive
+libgme:   HES       NEC TurboGrafx-16/PC Engine
+libgme:   KSS       MSX Home Computer/other Z80 systems (doesn't support FM sound)
+libgme:   NSF/NSFE  Nintendo NES/Famicom (with VRC 6, Namco 106, and FME-7 sound)
+libgme:   SAP       Atari systems using POKEY sound chip
+libgme:   SPC       Super Nintendo/Super Famicom
+libgme:   VGM/VGZ   Sega Master System/Mark III, Sega Genesis/Mega Drive, BBC Micro
+libgme:
+libgme: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
