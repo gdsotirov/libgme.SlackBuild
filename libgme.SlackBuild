@@ -17,14 +17,14 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 # 
-# $Id: libgme.SlackBuild,v 1.1 2016/09/15 20:35:49 gsotirov Exp $
+# $Id: libgme.SlackBuild,v 1.1.2.1 2016/09/19 20:08:03 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=libgme
 FNAME=game-music-emu
-VERSION=0.6.0
+VERSION=0.5.5
 ARCH=${ARCH:-i486}
 BUILD=${BUILD:-1}
 
