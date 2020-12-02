@@ -1,6 +1,6 @@
 libgme: LibGME (A collection of video game music file emulators)
 libgme:
-libgme: Game_Music_Emu libarary is a collection of video game music file
+libgme: Game_Music_Emu library is a collection of video game music file
 libgme: emulators that support the following formats and systems:
 libgme:   AY        ZX Spectrum/Amstrad CPC
 libgme:   GBS       Nintendo Game Boy
@@ -12,4 +12,4 @@ libgme:   SAP       Atari systems using POKEY sound chip
 libgme:   SPC       Super Nintendo/Super Famicom
 libgme:   VGM/VGZ   Sega Master System/Mark III, Sega Genesis/Mega Drive, BBC Micro
 libgme:
-libgme: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+libgme: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
